@@ -1,1 +1,3 @@
-# lambda-video2framestatus-infra
+# terraform-eks
+
+Deploy automatizado via GitHub Actions
